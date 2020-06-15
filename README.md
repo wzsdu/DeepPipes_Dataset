@@ -12,6 +12,6 @@ The fourth value is component type, the fifth value is the radius label，and th
 
 The radius  category label  ranges from 0 to 22. 
 The corresponding relationship between 23 classes and diameters is as follows:
-0:0.365, 1:0.4445 , 2:114.3, 3:141.3, 4:168.3, 5:219.1, 6:273.0, 7:323.8, 8:377, 9:426, 10:480, 11:530, 12:630, 13:720, 
- 14:820, 15:920, 16:210, 17:240, 18:265, 19:320, 20:375, 21:440, 22:490
-The diameter is measured in centimeters
+0:73, 1:88.9 , 2:114.3, 3:141.3, 4:168.3, 5:219.1, 6:273.0, 7:323.8, 8:377, 9:426, 10:480, 11:530, 12:630, 13:720, 
+ 14:820, 15:920, 16:210, 17:240, 18:265, 19:320, 20:375, 21:440, 22:490.
+The diameter is measured in centimeters.
