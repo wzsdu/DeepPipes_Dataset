@@ -1,6 +1,6 @@
 # DeepPipes_Dataset
 
-Here we present a dataset records the scanned point cloud for the pipeline scenario and the labels corresponding to each scanned point cloud.
+Here we present a dataset which records the scanned point cloud for the pipeline scenario and the labels corresponding to each scanned point cloud.
 
 The dataset consists of a total of 2,000 pipe scenarios, which are evenly distributed across eight folders, that is, 250 scenarios per folder.The first seven folders are the training sets, and the last folder is the validation set.
 
